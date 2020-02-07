@@ -30,11 +30,14 @@ Differences in scales across predictors may be problematic when training models.
 In general, outliers are observations that are exceptionally far from the majority of the data. Outliers are defined differently depending on the context and business problems. Even with a thorough understanding of the data set, outliers can still be hard to define. Outliers can be excluded from the dataset before model training process. However, removing outliers would not be beneficial if the dataset is small such as this dataset because the amount of data would be insufficient for the models to learn. One data transformation that can minimize the problem is Spatial Sign. This transformation projects the data for a predictor to the unit circle in p-dimensions, where p is the number of predictors. In simple terms, this transformation brings the outliers towards the majority of the data.
 ![](images/spatialsign.png)
 
+
 **Performances of models used in this project are described below:**
 ![](images/performances.png)
 ![](images/roc.png)
 
+
 **Visualization of the decision boundaries made by each model on a 2-d space (using only 2 features):**
+
 ![](images/logistic.png)
 ![](images/knn.png)
 ![](images/decisiontree.png)
