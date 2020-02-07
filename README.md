@@ -1,4 +1,4 @@
-# Instagram Accounts Genuinity Classification
+# Instagram Accounts Genuineness Classification
 
 The advancement of technology in these past decades has brought forth the growth of many different social media platforms. Although social media are efficient platforms where people can obtain and share information quickly, this is also a place where that information could be jeopardized and manipulated via fraudulent activities. The goal of this study is to utilize the collected features of multiple Instagram accounts, build models that can predict whether an account is genuine or fake by applying various classification methodologies and in a way help combating fraudulent activities on the internet.
 
