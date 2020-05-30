@@ -37,7 +37,7 @@ In general, outliers are observations that are exceptionally far from the majori
 ![](images/roc.png)
 
 
-## Visualization of the decision boundaries made by each model on a 2-d space (using only 2 features):
+## Visualization of the decision boundaries by each model on a 2-d space (using only 2 features):
 
 ![](images/logistic.png)
 ![](images/knn.png)
